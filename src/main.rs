@@ -1,4 +1,9 @@
-//
+/*
+     SPDX-FileCopyrightText: 2023 Kurt Hindenburg <kurt.hindenburg@gmail.com>
+
+     SPDX-License-Identifier: MIT
+*/
+
 // Find latest "pfSense Plus Software" version from their website and
 //  compare to installed version (text file)
 
